@@ -8,7 +8,7 @@
 ### 🚀 Habilidades
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Java, Python, MySQL
-- **Ferramentas**: Git, VSCode, Linux
+- **Ferramentas**: Git, VSCode, Linux 
 
 ### 📈 Estatísticas do GitHub
 ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaEvila&show_icons=true&theme=radical)
