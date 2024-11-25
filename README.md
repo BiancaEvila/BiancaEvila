@@ -6,7 +6,7 @@
 📚 Desenvolvendo um projeto de doação de livros com React!
 
 ### 🚀 Habilidades
-- **Frontend**: HTML, CSS, JavaScript, React.
+- **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Java, Python, MySQL
 - **Ferramentas**: Git, VSCode, Linux 
 
