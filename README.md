@@ -3,7 +3,7 @@
 💻 **Fullstack Developer em Formação**  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)  
 🌱 Sempre aprendendo algo novo!  
-📚 Desenvolvendo um projeto de doação de livros com React.js!
+📚 Desenvolvendo um projeto de doação de livros com React!
 
 ### 🚀 Habilidades
 - **Frontend**: HTML, CSS, JavaScript, React.js
